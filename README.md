@@ -25,3 +25,5 @@
 **Bag of Words** 
 **N-Grams in Bag of Words**
 **Term Frequency-Inverse Document Frequency**
+
+# Lec 5
