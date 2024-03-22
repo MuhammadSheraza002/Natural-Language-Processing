@@ -41,7 +41,7 @@
 
 ## Lecture 2: NLP Pipeline and Learning Agenda
 
-<img align="center" width="500"  src="images/nlp-pipeline.png"  > 
+<img align="right" width="500"  src="images/nlp-pipeline.png"  > 
 
 - **NLP Pipeline**
   - Data Acquisition
