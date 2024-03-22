@@ -59,7 +59,7 @@
   - Removing URLs
   - Removing punctuations
 
-<img align="right" width="600" src="images/text-preprocessing.png"  >
+<img align="right" width="550" src="images/text-preprocessing.png"  >
 
 
 - **Basic Text Preprocessing**
