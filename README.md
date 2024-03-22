@@ -39,9 +39,9 @@
   - Machine Learning Approach
   - Deep Learning-Based Approach
 
-## Lecture 2: NLP Pipeline and Learning Agenda
+## Lecture 2: NLP Pipeline
 
-<img align="right" width="500"  src="images/nlp-pipeline.png"  > 
+<img align="right" width="550"  src="images/nlp-pipeline.png"  > 
 
 - **NLP Pipeline**
   - Data Acquisition
