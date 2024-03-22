@@ -51,7 +51,6 @@
 
 ## Lecture 3: Text Cleaning and Basic Text Preprocessing
 
-<img align="right" width="400" src="images/text-preprocessing.png"  >
 
 - **Text Cleaning**
   - Removing digits and words containing digits
@@ -59,6 +58,9 @@
   - Removing HTML tags
   - Removing URLs
   - Removing punctuations
+
+<img align="right" width="700" src="images/text-preprocessing.png"  >
+
 
 - **Basic Text Preprocessing**
   - Case folding
