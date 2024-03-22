@@ -51,6 +51,8 @@
 
 ## Lecture 3: Text Cleaning and Basic Text Preprocessing
 
+<img align="right" width="600" src="images/text-preprocessing.png"  >
+
 - **Text Cleaning**
   - Removing digits and words containing digits
   - Removing newline characters and extra spaces
