@@ -7,7 +7,7 @@
   </div>
 
   <div style="float: right; width: 50%;">
-    <img style="width: 100%;" src="images/spam-classifier.png">
+    <img style="width: 100%;" src="images/nlp-overview.png">
   </div>
 </div>
 
@@ -83,6 +83,13 @@
   - Coreference Resolution
 
 - **Text Pre-Processing on Tweets Dataset**
+
+## Lecture 4: Text Representation
+
+- **Feature Extraction**
+  - Bag of Words (BoW) Representation
+  - Creating Bag of N-grams
+  - Term Frequency-Inverse Document Frequency
 
 ## How to Use
 
